@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dailylifeduas.github.io/Daily-life-dua-s-/sitemap.xml
